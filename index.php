@@ -6,13 +6,19 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
   <title>Show me your moves!</title>
   <style>
-    html {
+    body {
       background: url(https://images3.alphacoders.com/643/643616.png) no-repeat center center fixed;
       background-size: cover;
+    }
+
+    h1 {
+      color: white;
     }
   </style>
 </head>
 <body>
   <h1>Captain Falcon Kiosk!</h1>
+
+
 </body>
 </html>
